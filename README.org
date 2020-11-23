@@ -1,4 +1,4 @@
 ** Journal Club STA406
 
 This presentation was conducted as part of the Statistical Analysis of
-High-Throughput Genomic and Transcriptomic Data
+High-Throughput Genomic and Transcriptomic Data course.
