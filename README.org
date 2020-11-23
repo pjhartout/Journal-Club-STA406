@@ -1,0 +1,4 @@
+** CBB_Seminar
+Repository of course ressources for Computational Biology and Bioinformatics seminar @ ETH Zurich
+
+An article version of the presentation is available on [[https://pjhartout.github.io/posts/cbb-seminar-paper][my personal page]].
